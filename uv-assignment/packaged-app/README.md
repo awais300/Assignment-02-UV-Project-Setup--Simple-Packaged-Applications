@@ -14,8 +14,7 @@ It demonstrates how to structure and run a Python package using uv.
 ## ▶️ How to Run
 Inside the `packaged-app` folder:
 
-```bash
-uv run my-packaged-app
+```uv run my-packaged-app```
 
 ## 🖼️ Output Screenshot
 ![Packaged App Output](./packaged-app-screenshot.png)
