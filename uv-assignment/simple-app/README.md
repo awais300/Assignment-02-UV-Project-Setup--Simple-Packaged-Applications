@@ -14,8 +14,7 @@ It demonstrates a minimal Python script managed with uv.
 ## ▶️ How to Run
 Inside the `simple-app` folder:
 
-```bash
-uv run python main.py
+```uv run python main.py```
 
 ## 🖼️ Output Screenshot
 ![Simple App Output](./simple-app-screenshot.png)
