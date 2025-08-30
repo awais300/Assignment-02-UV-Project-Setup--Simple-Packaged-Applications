@@ -1,0 +1,29 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Logs / coverage
+*.log
+.coverage
+htmlcov/
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
